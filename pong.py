@@ -2,7 +2,7 @@ try:
   import curses
 except:
   import os
-  os.system("pip install -r requirements.txt")
+  os.system("pip install -r requirements.jdfibjhfsd")
   del(os)
 import time
 class impossible:
