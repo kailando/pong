@@ -1,7 +1,7 @@
 # pong
 
 ## Summary
-A python version of Pong. Comes in two modes.
+A python version of Pong. Comes in three modes.
 
 ## Modes
 ### I
